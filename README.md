@@ -1,119 +1,130 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=900&color=5BCDEC&center=true&vCenter=true&width=600&lines=Hi+👋%2C+I'm+Abdur+Rehman;AI+LLM+Engineer;System+Architect;Building+Intelligent+Agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Abdur+Rehman;AI+LLM+Engineer;Architecting+Intelligent+Systems" />
 </h1>
 
-<h3 align="center">🧠 AI LLM Engineer | 🚀 RAG & Memory Architectures | ⚡ Agentic Systems Builder</h3>
+<h3 align="center">
+🧠 LLM Engineer • ⚙️ System Architect • 🔁 Memory & RAG Specialist
+</h3>
 
 <p align="center">
-  <i>Designing scalable AI systems that think, remember, and act.</i>
+  <b>I don’t prompt models.<br/>I design intelligence.</b>
 </p>
+
+---
+
+## ⚡ Who Am I?
+
+I build **LLM systems that scale** — not demos, not toys.
+
+- 🧠 Long-term **memory-aware AI agents**
+- 🔍 High-precision **RAG & semantic retrieval**
+- 🧱 Clean separation of **memory, state, tools, and reasoning**
+- ⚙️ Architectures that survive **long conversations & real users**
+
+If an LLM is a brain —  
+**I design the nervous system.**
+
+---
+
+## 🧠 What I Specialize In
+
+**Core Focus (no fluff):**
+
+- LLM Memory Architecture (short / long / compressed)
+- Retrieval-Augmented Generation (RAG)
+- Vector embeddings & semantic search
+- Context window optimization
+- Agent reasoning loops (memory × tools × logic)
+
+---
+
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/240304586-218f11fa-42f4-4af1-9e0a-a2a8e8a7f4e9.gif" width="100%" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,mongodb,postgres,docker,aws,linux,git,github&perline=8" />
 </p>
 
----
+**AI Stack**
+Llama 3.x
+Sentence-Transformers
+ChromaDB / Pinecone
+Groq API
+Custom RAG Pipelines
+Rolling & Recursive Summarization
 
-## 🧩 About Me
-
-- 🎓 Software Engineering student with a **systems-thinking mindset**
-- 🤖 Focused on **LLMs, RAG pipelines, and memory-aware agents**
-- 🧠 Obsessed with **state, memory compression, and long-context reasoning**
-- ⚙️ I don’t write prompts — **I engineer AI systems**
-
----
-
-## ⚙️ Core Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,mongodb,postgres,docker,aws,git,github,linux,vscode&perline=8" />
-  </a>
-</p>
-
-### 🧠 AI Engineering Toolkit
-
-`Llama 3.x` · `RAG Pipelines` · `Vector Embeddings` · `Memory Chunking`  
-`Rolling / Recursive Summarization` · `Sentence-Transformers`  
-`Groq API` · `ChromaDB` · `Pinecone (learning)` · `LangChain / Custom Pipelines`
 
 ---
 
-## 🏗️ System-Level Expertise
-
-- 🧠 LLM **Memory Architecture** (short-term vs long-term vs compressed)
-- 🔍 **Semantic Search & Retrieval Pipelines**
-- 🧱 **Context Window Optimization** (token-efficiency)
-- 🔁 **Agent Loops** (reasoning + tools + memory)
-- 🧩 Clean separation of **state, memory, and prompts**
-
----
-
-## 🚀 Active Engineering Projects
+## 🧩 Flagship Systems
 
 ### 🧠 Infinite Memory Agent
-- Long-term conversational memory using **rolling summarization**
-- Maintains goals, facts, and intent without context bloat
-- Designed for **days-to-months long sessions**
+> *A system that remembers without drowning itself in tokens.*
 
-### 🔐 The Gatekeeper (Semantic Brain)
-- Vector-based semantic search engine
-- Retrieves **only relevant knowledge** at inference time
-- Used as a live augmentation layer for LLMs
-
-### 💬 Stateful Chat Architecture
-- Explicit separation of:
-  - ✅ Permanent memory
-  - ⏳ Session memory
-  - ⚡ Prompt-only context
-- Modular and scalable memory injection
+- Long-term memory via rolling summarization
+- Preserves intent, goals, and facts
+- Stable across **days → weeks → months**
+- Zero context bloat
 
 ---
 
-## 🌱 Current Growth Track
+### 🔐 The Gatekeeper
+> *Semantic brain in front of the LLM.*
 
-- 🧠 Advanced **LLM State & Memory Compression**
-- 📦 Scaling from local vectors → production vector DBs
-- ⚡ **10-Day Speed Engineering Challenge** (2× velocity)
-- 🏗️ Designing **agent-first systems**, not chatbots
-
----
-
-## 🧠 Engineering Philosophy
-
-> “An LLM is just a brain. Intelligence emerges when you give it memory, tools, and structure.”
-
-> “Prompts are temporary. Systems scale.”
+- Vector-based retrieval layer
+- Injects **only what matters**
+- Prevents hallucinations
+- Acts as real-time knowledge filter
 
 ---
 
-## 📊 GitHub Analytics
+### 💬 Stateful Chat Engine
+> *Not a chatbot. A system.*
+
+- Permanent memory
+- Session memory
+- Prompt-only context
+- Explicit state control
+
+No magic. Just clean architecture.
+
+---
+
+## 🧠 My Engineering Rule
+
+> **If your AI breaks after 20 messages — it’s not engineered.**
+
+> Prompts are temporary.  
+> Systems compound.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&bg_color=0D1117&border_color=7d40ff&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&background=0D1117&border=7d40ff" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&bg_color=0D1117&border_color=00E5FF&hide_title=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&background=0D1117&border=00E5FF" height="160"/>
 </p>
 
 ---
 
-## 📡 Connect With Me
+## 📡 Contact
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=000"/>
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-FF1744?style=for-the-badge&logo=gmail&logoColor=fff"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&style=for-the-badge&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00E5FF"/>
 </p>
 
 <p align="center">
-  ⭐ Built with intent by <b>Abdur Rehman</b><br/>
-  🚀 10 Days of Work — Executed in 5 or Less
+<b>Abdur Rehman</b><br/>
+Engineering intelligence — not hype.
 </p>
