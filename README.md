@@ -6,9 +6,6 @@
 🧠 LLM Engineer • ⚙️ System Architect • 🔁 Memory & RAG Specialist
 </h3>
 
-<p align="center">
-  <b>I don’t prompt models.<br/>I design intelligence.</b>
-</p>
 
 ---
 
